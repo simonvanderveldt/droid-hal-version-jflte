@@ -7,7 +7,7 @@
 
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Samsung
-%define device_pretty Galaxy S4 intl i9505
+%define device_pretty Galaxy S4 intl LTE
 
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
 %define have_vibrator 1 
